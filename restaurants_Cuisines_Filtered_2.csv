@@ -1,0 +1,168 @@
+,Unnamed: 0,Name,Location,overall_rating,Num_Reviews,Cuisines,Score,rest_id,Score_New
+0,0,Sunshine Spot,North York,3.6,42,"Diner, Canadian",0.14820940000000002,0,3.741047
+1,1,Lemongrass,Davisville Village,3.8,49,Thai,0.137878314,1,3.68939157
+2,2,Gyu-Kaku Japanese BBQ,St. Lawrence,,13,"Japanese, BBQ",0.144002365,2,3.720011825
+3,3,Melanie's Bistro,East Danforth,,60,Grill,0.293148173,3,4.465740867
+4,4,The Only Cafe,The Danforth,3.9,58,"Bar, Café, Bar Food, Cafe",0.191815157,4,3.9590757830000003
+5,5,TCJ Restaurant,St. Lawrence,3.5,19,"Thai, Chinese, Japanese, Asian",0.17106665100000001,5,3.8553332539999996
+6,6,Basilico Ristorante,Woodbridge,,59,Italian,0.253041009,6,4.265205047
+7,7,Goods & Provisions,Leslieville,,51,"Bar, Bar Food",0.25017236800000003,7,4.2508618380000005
+8,8,Salute Piano Bar and Restaurant,Yorkville,,44,"Bar, European, Italian",0.143668737,8,3.718343687
+9,9,Joy Thai Restaurant,Bedford Park,,42,"Thai, Asian",0.286966194,9,4.434830968
+10,10,Carmelina,Markham,3.8,52,"Italian, Mediterranean",0.295044807,10,4.475224033
+11,11,Bombay Palace,St. Lawrence,3.7,62,Indian,0.178736575,11,3.893682875
+12,12,Akimi Japanese Cuisine,Richmond Hill,3.8,46,"Sushi, Japanese",0.145890532,12,3.729452662
+13,13,Tasty BBQ Seafood Restaurant,North York,3.8,35,"Cantonese, Chinese, Asian",0.12255506,13,3.612775301
+14,14,Fortune Dragon,Mississauga,,63,"Quick Bites, Chinese, Asian",0.132693594,14,3.663467971
+15,15,Mama's Boys Burgers,Scarborough,,46,"Quick Bites, Burger, Canadian",0.205543287,15,4.027716433999999
+16,16,Nine18 - Turnberry Golf Club,Brampton,,51,Canadian,0.183375213,16,3.916876063
+17,17,Old Country Inn,Markham,3.8,42,"Austrian, European",0.154465611,17,3.772328056
+18,18,Harpers Landing,Oakville,3.5,40,"Canadian, Grill",0.240088388,18,4.200441938
+19,19,Mad Mexican,Runnymede,3.5,44,Mexican,0.17335817,19,3.86679085
+20,20,Krepesz,Kensington-Chinatown,3.8,44,"Café, Lounge, Cafe, Hungarian",0.216603225,20,4.083016127
+21,21,Grillway Subs & Burgers,Bloor West Village,,59,"Quick Bites, Burger, Greek, Sandwich",0.296258106,21,4.481290529
+22,22,Calabash Caribbean Cuisine,Mississauga,3.9,46,"Caribbean, West Indian",0.11572576300000001,22,3.578628816
+23,23,Kothur Indian Cuisine,Etobicoke,3.9,36,Indian,0.165683285,23,3.828416424
+24,24,The Cupcake Shoppe,Yonge & Eglinton,,49,"Dessert Parlor, Desserts, Bakery",0.195549405,24,3.9777470260000003
+25,25,Sushi In Sushi,Mississauga,,54,"Sushi, Japanese, Korean",0.326851044,25,4.634255221
+26,26,Patisserie La Cigogne,Davisville Village,,50,"Bakery, Café, Bakery, Cafe, French",0.130677635,26,3.6533881760000004
+27,27,Free Times Cafe,Harbord Village,3.7,58,"Jewish, Middle Eastern, Canadian",0.17546659399999998,27,3.87733297
+28,28,Jake's on Main,Markham,,50,American,0.221523656,28,4.10761828
+29,29,Ye's Sushi,Oakville,,14,"Sushi, Japanese, Asian",0.020535714,29,3.102678571
+30,30,Bunner's,The Junction,3.8,56,"Dessert Parlor, Desserts, Bakery",0.187469456,30,3.9373472819999997
+31,31,Kailash Parbat,Mississauga,,29,Indian,0.245987082,31,4.229935412
+32,32,Japango,The Beaches,3.9,54,"Sushi, Japanese, Asian",0.273335286,32,4.366676429
+33,33,Simply Thai,Bloor West Village,,58,"Thai, Asian",0.14833216300000002,33,3.741660815
+34,34,Santo Italian Restaurant,Thornhill,3.9,32,Italian,0.23254460100000002,34,4.162723004
+35,35,Love Me Sweet,Thornhill,3.7,20,"Bakery, Desserts, Japanese",0.130463049,35,3.6523152469999998
+36,36,Brock House,Whitby,,49,American,0.037062358,36,3.185311792
+37,37,Golden Court Abalone Restaurant,Richmond Hill,,28,"Dim Sum, Cantonese, Chinese, Asian",0.052614250999999994,37,3.263071257
+38,38,Montreal Deli,Mississauga,3.9,45,"Deli, Italian",0.20892317,38,4.0446158510000005
+39,39,Phoenix Pan Asian Cuisine,Scarborough,,37,Hakka Chinese,0.179360395,39,3.896801973
+40,40,Young Thailand,Niagara,3.9,53,Thai,0.136542354,40,3.68271177
+41,41,Ichiban Fish House,Richmond Hill,3.7,40,"Quick Bites, Sushi, Japanese",0.1945667,41,3.972833501
+42,42,Zaza Espresso Bar,Yorkville,,51,"Café, Cafe",0.22715998,42,4.135799898999999
+43,43,Son of a Peach,Burlington,3.6,38,"Quick Bites, Pizza",0.219918516,43,4.099592578999999
+44,44,JP's Pita Deli,Clarington,,48,"Quick Bites, Mediterranean, Middle Eastern, Sandwich",0.21947165800000001,44,4.097358292
+45,45,Harbord Fish & Chips,Harbord Village,3.9,54,"Quick Bites, Fish and Chips",0.124749421,45,3.623747106
+46,46,Rawlicious,Markham,3.5,36,"Café, Healthy Food, Cafe, Vegetarian",0.191911645,46,3.9595582260000004
+47,47,Cho Dang Soon Tofu,Etobicoke,,51,"Korean, Asian",0.188291132,47,3.941455659
+48,48,Wimpy's Diner,North York,3.7,49,Diner,0.093791606,48,3.46895803
+49,49,Eggsmart,Discovery District,3.5,44,Diner,0.15626536800000002,49,3.7813268389999997
+50,50,Yoshiko Sushi,Thornhill,3.9,40,"Sushi, Japanese, Asian",0.137922811,50,3.6896140539999998
+51,51,Biagio Ristorante,St. Lawrence,,55,Italian,0.282155596,51,4.410777982
+52,52,District Social,Dufferin Grove,3.5,38,"Middle Eastern, Mediterranean",0.161311049,52,3.806555247
+53,53,The Lobster Trap,Woodbridge,,39,Seafood,0.09664661699999999,53,3.483233085
+54,54,The Tavern By Trevor,Entertainment District,,32,"Bar Food, Fusion",0.166299865,54,3.831499327
+55,55,The Beaver,Beaconsfield Village,3.8,55,"Bar, Bar Food",0.18232589300000002,55,3.911629464
+56,56,Wonton Chai Noodle,Mississauga,3.9,34,"Quick Bites, Cantonese",0.180784052,56,3.9039202580000003
+57,57,Tutto Bene,Thornhill,,55,Italian,0.251711321,57,4.258556607
+58,58,Ma Maison,Etobicoke,3.9,45,"Bakery, Café, Bakery, French, Cafe, Desserts",0.160003455,58,3.800017276
+59,59,Thai Signature Restaurant,Mississauga,,53,"Thai, Asian",0.16301689,59,3.8150844489999995
+60,60,Yellowtail,Markham,3.7,39,"Sushi, Japanese, Asian",0.17254677,60,3.862733852
+61,61,Brioche Dorée,Fashion District,3.5,38,"Café, Bakery, Bakery, Cafe",0.17504914100000002,61,3.875245707
+62,62,Bapbo,Discovery District,3.5,31,"Korean, Japanese",0.132324393,62,3.661621967
+63,63,Koganei Japanese Seafood Restaurant,Woodbridge,,56,"Sushi, Japanese, Asian",0.19347066899999998,63,3.9673533439999997
+64,64,Wah Sing Seafood Restaurant,Rosedale,3.9,52,"Chinese, Seafood, Asian",0.12503609699999998,64,3.625180485
+65,65,El Almacen,Beaconsfield Village,3.8,33,"Café, Cafe, Latin American",0.311383488,65,4.556917438
+66,66,The Beech Tree,The Beaches,3.9,39,British,0.25926008300000003,66,4.296300415
+67,67,McSorley's Saloon & Grill,Davisville Village,3.9,53,"Bar, Grill, Canadian",0.11225824,67,3.5612912000000003
+68,68,Nove Ristorante,Woodbridge,3.9,47,Italian,0.201337061,68,4.006685303
+69,69,Darvish,Downtown Yonge,3.8,47,Iranian,0.23202559399999997,69,4.1601279689999995
+70,70,Rib Eye Jack's Ale House,Mississauga,3.7,22,"Bar, Bar Food, Steak",0.080763421,70,3.403817103
+71,71,Affy's Premium Grill,Pickering,3.8,45,"BBQ, Burger, Steak",0.042880279,71,3.2144013960000004
+72,72,Bolet's Burrito,St. Lawrence,,59,"Quick Bites, Tex-Mex",0.225066588,72,4.125332938000001
+73,73,Ufficio,Dufferin Grove,3.5,16,Mediterranean,0.23193458100000003,73,4.159672906
+74,74,Leslie Jones,Leslieville,,56,European,0.20469331699999999,74,4.023466585
+75,75,Ritz Caribbean Foods,Downtown Yonge,3.8,54,"Quick Bites, Caribbean, Jamaican",0.14120439099999998,75,3.7060219539999997
+76,76,Bistro on Avenue,North York,,53,"Bar Food, American",0.122929488,76,3.61464744
+77,77,Flip Toss & Thai Kitchen,Harbord Village,,60,"Quick Bites, Thai, Asian",0.097931929,77,3.489659645
+78,78,The Boil Bar,Scarborough,,11,Seafood,0.129732873,78,3.648664367
+79,79,Dairy Freeze,Carleton Village,3.9,53,"Quick Bites, Fast Food",0.178359458,79,3.8917972880000002
+80,80,Avenue Open Kitchen,Fashion District,3.8,43,"Quick Bites, Deli, Fast Food",0.202625848,80,4.013129238
+81,81,Satay On The Road,North York,3.8,42,"Thai, Malaysian, Asian",0.090068817,81,3.450344083
+82,82,Grenadier Cafe,High Park,,39,Diner,0.07201271599999999,82,3.360063582
+83,83,Forget About It! Supper Club,Entertainment District,3.5,40,Italian,0.172308162,83,3.8615408110000002
+84,84,Good Bite,Yonge & Eglinton,,52,American,0.264433839,84,4.322169194
+85,85,Ichiriki,Church and Wellesley,3.9,47,Sushi,0.217048115,85,4.085240575
+86,86,Belfast Love Public House,Fashion District,,13,"Pub, Bar Food",0.138693549,86,3.693467746
+87,87,Sweet O'clock,North York,,19,"Dessert Parlor, Taiwanese, Desserts, Bubble Tea, Asian",0.150036746,87,3.75018373
+88,88,Kiu Japanese Restaurant,Markham,,14,Japanese,0.18249067600000002,88,3.9124533789999996
+89,89,Sunrise Grill & Crepe,Roncesvalles Village,3.9,45,Grill,0.0490206,89,3.245103002
+90,90,Pita Deli,Whitby,,57,Middle Eastern,0.225937618,90,4.129688089
+91,91,Churrasco of St. Clair,Hillcrest,3.9,53,"Quick Bites, Portuguese, Grill",0.015671115,91,3.078355573
+92,92,Piacere Ristorante,Woodbridge,3.8,42,Italian,0.170698728,92,3.853493641
+93,93,Cosmic Treats,Kensington-Chinatown,3.6,19,"Dessert Parlor, Desserts, Ice Cream, Canadian",0.291886513,93,4.459432566
+94,94,Galaxie Diner,Woodbridge,3.9,37,"Deli, American",0.16940855100000002,94,3.847042757
+95,95,Archeo,Distillery District,3.7,52,Italian,0.136467652,95,3.682338259
+96,96,King Taps,Financial District,3.5,20,Canadian,0.275944444,96,4.379722222
+97,97,New York Cafe,The Danforth,3.8,50,"American, Canadian",0.09519458900000001,97,3.475972947
+98,98,Sabores Tradicionais,Carleton Village,,3,Portuguese,0.297048611,98,4.485243056
+99,99,Sampaguita Village,North York,,40,"Filipino, Chinese, Asian",0.146681662,99,3.733408308
+100,100,OBQ Burgers,Etobicoke,3.9,47,"Quick Bites, Burger, Grill, Fish and Chips",0.248611146,100,4.243055728
+101,101,Early Bird,Niagara,3.8,38,"Café, Cafe",0.243215789,101,4.2160789439999995
+102,102,Casa Di Giorgio Ristorante,Leslieville,3.9,43,"Italian, Mediterranean, Pizza",0.20186876399999998,102,4.009343821
+103,103,Mackenzie's,Bloor West Village,3.7,48,"Bar, Bar Food, Burger",0.15981504800000002,103,3.79907524
+104,104,Gohyang,Etobicoke,3.5,18,"Korean, Japanese, Chinese, Asian",0.176085467,104,3.880427335
+105,105,Markham Sushi,Markham,,50,"Japanese, Sushi",0.241890895,105,4.209454476
+106,106,Zane Patisserie & Boulangerie,The Beaches,,48,"Dessert Parlor, Desserts",0.265706213,106,4.328531065
+107,107,Prenup Pub,Discovery District,,28,"Bar, Bar Food, European, Canadian",0.161226476,107,3.80613238
+108,108,Landmark Seafood Cuisine,Scarborough,3.5,15,"Dim Sum, Cantonese, Chinese, Asian",0.12026188,108,3.601309399
+109,109,Cafe Green Tea,Markham,3.6,34,"Japanese, Asian",0.11065089,109,3.553254448
+110,110,Megas,The Danforth,3.7,43,Greek,0.064504048,110,3.3225202410000003
+111,111,Game of Cheese,Thornhill,,8,Asian Fusion,0.11989644699999999,111,3.599482236
+112,112,China Cottage,Scarborough,3.5,36,"Hakka Chinese, Thai",0.126493002,112,3.63246501
+113,113,Tutto Pronto Ristorante,North York,,9,Italian,0.23033497,113,4.151674849
+114,114,Pho Viet Xpress,Thornhill,3.9,25,Vietnamese,0.22932287899999998,114,4.146614397
+115,115,The Rolling Pin,Bedford Park,3.6,31,"Dessert Parlor, Desserts",0.224807891,115,4.124039455
+116,116,King's Tacos,Earlscourt,3.8,40,Mexican,0.242612255,116,4.213061274
+117,117,The Bistro on Main,Milton,3.9,34,"Canadian, European",0.20174423,117,4.008721148999999
+118,118,Garlic Onion,Richmond Hill,3.7,39,"Cantonese, Chinese, Asian",0.080942646,118,3.4047132280000003
+119,119,Dark Horse,York,,51,"Bar, Bar Food",0.108539999,119,3.5426999930000003
+120,120,Greens Vegetarian,Kensington-Chinatown,3.7,25,"Cantonese, Vegetarian",0.08848731,120,3.442436549
+121,121,Ithaca,Markham,3.8,45,"Greek, Mediterranean",0.07378762700000001,121,3.368938136
+122,122,Insomnia,Harbord Village,4.5,393,"Bar, American, Italian, Bar Food",0.22472317100000003,122,4.123615855
+123,123,I like coming here for brunch whenever I am in Toronto. What I usually get is the traditional breakfast and sub the bacon for sausage...It also comes with the best potatoes ever--I always try to take my friends here so they can experience how great they are! I love the vibe and the service is always great, even on the weekends,," I brought a voucher and had the same great service. I've only come here once during the night time and was surprised how busy it was. Seems like it would """,,0.0,123,3.0
+124,124,KINKA IZAKAYA,Church and Wellesley,4.9,1156,"Japanese, Asian",0.193163549,124,3.9658177439999998
+125,125,Pizzeria Libretto,Trinity Bellwoods,4.8,998,"Pizza, Italian",0.234616806,125,4.173084029
+126,126,Terroni,Trinity Bellwoods,4.2,941,"Italian, Pizza",0.151410666,126,3.75705333
+127,127,El Catrin Destileria,Distillery District,3.8,449,"Mexican, Tapas",0.183433898,127,3.9171694880000003
+128,128,Salad King,Downtown Yonge,3.8,1253,"Thai, Asian",0.17864835,128,3.8932417519999998
+129,129,Salad King,Downtown Yonge,,1253,"Thai, Asian",0.17864835,129,3.8932417519999998
+130,130,Richmond Station,Financial District,,482,"Italian, Canadian",0.233347052,130,4.1667352619999996
+131,131,Pai,Entertainment District,4.9,599,"Thai, Asian",0.208564725,131,4.042823626000001
+132,132,Banh Mi Boys,Fashion District,4.9,933,"Quick Bites, Sandwich",0.192557993,132,3.962789965
+133,133,Gusto 101,Fashion District,4.6,497,"Bar, Pizza, Italian",0.206341765,133,4.031708823
+134,134,The Burger's Priest,The Beaches,4.5,772,"Quick Bites, Burger",0.145664681,134,3.728323407
+135,135,Canoe,Financial District,,673,"Fine Dining, Canadian, Bar Food",0.24944166,135,4.247208302
+136,136,Grand Electric,Brockton Village,4.6,719,"Bar, Mexican",0.161687243,136,3.808436214
+137,137,The Stockyards,Forest Hill,4.9,727,"Quick Bites, BBQ, Burger",0.121913915,137,3.609569576
+138,138,Auberge du Pommier,North York,4.6,638,"Fine Dining, French",0.21404027399999997,138,4.070201368
+139,139,Lee,Fashion District,4.6,564,"Bar, Asian Fusion, Asian",0.19177829300000002,139,3.958891467
+140,140,Barque Smokehouse,Roncesvalles Village,4.6,645,"BBQ, Grill",0.17735132,140,3.886756601
+141,141,Grazie Ristorante,Yonge & Eglinton,,688,Italian,0.179141377,141,3.895706887
+142,142,WVRST,Niagara,,455,German,0.17579505399999998,142,3.8789752710000003
+143,143,Copacabana Grilled Brazilian,Davisville Village,4.6,532,"Brazilian, Grill",0.153799543,143,3.768997715
+144,144,Momofuku Noodle Bar,Entertainment District,3.5,534,"Japanese, Asian",0.125635624,144,3.62817812
+145,145,Blackhorn Steakhouse,Scarborough,3.9,26,"Steak, Seafood, Greek",0.20616011899999998,145,4.030800594
+146,146,Tori's Bakeshop,The Beaches,3.9,21,"Bakery, Café, Bakery, Cafe, Coffee and Tea, Desserts",0.19407386399999998,146,3.970369322
+147,147,Tuptim Thai Restaurant,Newmarket,3.9,31,Thai,0.216166468,147,4.08083234
+148,148,The Great Wok Of China,Mississauga,3.9,35,"Chinese, Asian",0.200599832,148,4.002999161
+149,149,Jinju Sushi,Scugog,3.9,25,"Asian, Japanese, Sushi",0.24850283399999998,149,4.242514172
+150,150,Ellen's Bar & Grill,Brampton,3.9,27,"Bar, Bar Food, American",0.205066227,150,4.025331134
+151,151,Thai Senses Restaurant,Oakville,3.9,30,"Thai, Asian",0.227277092,151,4.13638546
+152,152,Spicy Affair,Oshawa,3.9,30,Indian,0.24692167899999998,152,4.234608393999999
+153,153,Suksi Biryani House,Church and Wellesley,3.9,36,Indian,0.285324566,153,4.426622831
+154,154,Patisserie Sebastien,Bedford Park,3.9,24,"Bakery, Café, Bakery, Cafe",0.154468852,154,3.772344258
+155,155,Tom's Burger,Markham,3.9,35,"Quick Bites, Fast Food",0.23694305300000001,155,4.184715265
+156,156,Wow! Wings House,Whitby,3.9,31,"Bar, BBQ, Bar Food",0.168454861,156,3.842274306
+157,157,Dessert Lady,Yorkville,3.9,32,"Dessert Parlor, Desserts",0.276188492,157,4.38094246
+158,158,Lotus Pond Vegetarian Restaurant,Scarborough,3.9,31,Chinese,0.151286376,158,3.7564318780000003
+159,159,Z-Teca,Garden District,3.9,42,"Quick Bites, Tex-Mex",0.12484375,159,3.62421875
+160,160,Il Cavallino Ristorante,Woodbridge,3.9,29,Italian,0.21806375600000003,160,4.090318778
+161,161,Athens Restaurant & Tavern,The Danforth,3.9,31,"Greek, Mediterranean",0.20292581699999998,161,4.014629084
+162,162,Sakada Sushi,Pickering,3.9,26,"Sushi, Japanese, Asian",0.250954384,162,4.25477192
+163,163,Market Place Fish & Chips,Mississauga,3.9,26,"Quick Bites, Fish and Chips",0.349135753,163,4.745678766
+164,164,Doppio Zero,Forest Hill,3.9,33,"Pizza, Italian",0.17790388,164,3.889519398
+165,165,Royal Orchard Thai Cuisine,Thornhill,3.9,30,Thai,0.160943878,165,3.804719388
+166,166,The Feathers,The Beaches,3.9,31,"British, Bar Food",0.32566609999999996,166,4.628330499
